@@ -1,2 +1,2 @@
 # html-portfolio
-Amar Huusain portfolio (Angela Yu Course)
+Amar Hussain portfolio (Angel Yu Course)
